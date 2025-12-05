@@ -1,2 +1,2 @@
-[Vooskeem1][https://github.com/okz-spec/RegistreerimineJaAutoriseerimine/blob/master/docs/1.png?raw=true)
-[Vooskeem2][https://github.com/okz-spec/RegistreerimineJaAutoriseerimine/blob/master/docs/1.png?raw=true)
+[Vooskeem1][docs/1.png)
+[Vooskeem2][docs/2.png)
